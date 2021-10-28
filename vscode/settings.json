@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/bin/python",
+    "workbench.colorTheme": "GitHub Dark"
+    "editor.tokenColorCustomizations": {
+        "variables": "#fff"
+     },
+}
