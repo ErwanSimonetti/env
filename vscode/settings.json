@@ -1,7 +1,11 @@
 {
     "python.defaultInterpreterPath": "/bin/python",
-    "workbench.colorTheme": "GitHub Dark"
+    "workbench.colorTheme": "GitHub Dark",
     "editor.tokenColorCustomizations": {
         "variables": "#fff"
-     },
+    },
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.cursorBlinking": "phase",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorSmoothCaretAnimation": true,
 }
