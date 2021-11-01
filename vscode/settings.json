@@ -2,7 +2,31 @@
     "python.defaultInterpreterPath": "/bin/python",
     "workbench.colorTheme": "GitHub Dark",
     "editor.tokenColorCustomizations": {
-        "variables": "#fff"
+        "variables": "#ffffff",
+        "keywords": "#ff3d3d",
+        "functions": "#9945ff",
+        "types": "#0084ff",
+        "strings": "#db5d00",
+        "textMateRules": [
+            {
+                "scope": "entity.name.namespace",
+                "settings": {
+                    "foreground": "#ffff"
+                }
+            },
+            {
+                "scope": "variable.other.enummember",
+                "settings": {
+                    "foreground": "#ff6ec0"
+                }
+            },
+            {
+                "scope": "constant",
+                "settings": {
+                    "foreground": "#eded4e"
+                }
+            },
+        ]
     },
     "workbench.iconTheme": "vscode-great-icons",
     "editor.cursorBlinking": "phase",
