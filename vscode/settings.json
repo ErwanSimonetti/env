@@ -32,4 +32,5 @@
     "editor.cursorBlinking": "phase",
     "terminal.integrated.cursorBlinking": true,
     "editor.cursorSmoothCaretAnimation": true,
+    "security.workspace.trust.untrustedFiles": "open",
 }
