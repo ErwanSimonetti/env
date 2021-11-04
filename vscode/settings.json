@@ -33,4 +33,7 @@
     "terminal.integrated.cursorBlinking": true,
     "editor.cursorSmoothCaretAnimation": true,
     "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.showSlider": "always",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "workbench.preferredLightColorTheme": "GitHub Light",
 }
