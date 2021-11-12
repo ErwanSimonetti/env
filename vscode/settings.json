@@ -36,4 +36,5 @@
     "editor.minimap.showSlider": "always",
     "workbench.preferredDarkColorTheme": "GitHub Dark",
     "workbench.preferredLightColorTheme": "GitHub Light",
+    "window.title": "${dirty}${activeEditorShort} ${dirty}",
 }
