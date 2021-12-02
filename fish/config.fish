@@ -13,4 +13,4 @@ abbr -a prompt code ~/.config/fish/functions/fish_prompt.fish
 abbr -a right_prompt code ~/.config/fish/functions/fish_right_prompt.fish
 abbr -a engine cd /home/erwansimonetti/Mergify/mergify-engine/
 abbr -a dashboard cd /home/erwansimonetti/Mergify/mergify.io/
-set -gx PATH /home/erwansimonetti/.local/bin:/home/erwansimonetti/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin
+set -gx PATH /home/erwansimonetti/.local/bin:/home/erwansimonetti/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin /var/lib/snapd/snap/bin/
