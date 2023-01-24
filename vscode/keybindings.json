@@ -7,5 +7,21 @@
     {
         "key": "ctrl+k",
         "command": "terminal.focus"
+    },
+    {
+        "key": "alt+q",
+        "command": "cursorLineEnd"
+    },
+    {
+        "key": "alt+a",
+        "command": "cursorLineStart"
+    },
+    {
+        "key": "shift+alt+q",
+        "command": "cursorLineEndSelect"
+    },
+    {
+        "key": "shift+alt+a",
+        "command": "cursorLineStartSelect"
     }
 ]
