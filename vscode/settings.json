@@ -6,7 +6,7 @@
         "keywords": "#ff3d3d",
         "functions": "#9945ff",
         "types": "#0084ff",
-        "strings": "#db5d00",
+        "strings": "#00a824",
         "textMateRules": [
             {
                 "scope": "entity.name.namespace",
@@ -31,10 +31,22 @@
     "workbench.iconTheme": "vscode-great-icons",
     "editor.cursorBlinking": "phase",
     "terminal.integrated.cursorBlinking": true,
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "security.workspace.trust.untrustedFiles": "open",
     "editor.minimap.showSlider": "always",
     "workbench.preferredDarkColorTheme": "GitHub Dark",
     "workbench.preferredLightColorTheme": "GitHub Light",
     "window.title": "${dirty}${activeEditorShort} ${dirty}",
+    "epitech-c-cpp-headers.username": "Erwan",
+    "epitech-c-cpp-headers.login": "erwan.simonetti@epitech.eu",
+    "epitech-c-cpp-headers.headerType": "post2017",
+    "epitech-c-cpp-headers.usePragmaOnce": true,
+    "epitech-c-cpp-headers.autoGenerateClasses": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "githubPullRequests.pullBranch": "never",
+    "githubPullRequests.pushBranch": "always",
+    "cmake.configureOnOpen": true,
+    "tabnine.experimentalAutoImports": true,
 }
