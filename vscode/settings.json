@@ -1,5 +1,5 @@
 {
-    "python.defaultInterpreterPath": "/bin/python",
+    "python.defaultInterpreterPath": "/usr",
     "workbench.colorTheme": "GitHub Dark",
     "editor.tokenColorCustomizations": {
         "variables": "#ffffff",
@@ -49,4 +49,14 @@
     "githubPullRequests.pushBranch": "always",
     "cmake.configureOnOpen": true,
     "tabnine.experimentalAutoImports": true,
+    "[csharp]": {
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.inlineSuggest.suppressSuggestions": false,
+        "editor.suggest.showReferences": true
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "editor.suggest.showReferences"
+    ],
+    "dotnet.codeLens.enableReferencesCodeLens": false,
+    "editor.multiCursorLimit": 1000,
 }
