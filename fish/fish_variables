@@ -1,11 +1,20 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR __fish_initialized:3100
+SETUVAR __fish_initialized:3400
+SETUVAR _fish_abbr_bashrc:code\x20/home/erwansimonetti/\x2econfig/fish/config\x2efish
 SETUVAR _fish_abbr_c:clear
+SETUVAR _fish_abbr_dashboard:cd\x20/home/erwansimonetti/Mergify/mergify_dashboard
+SETUVAR _fish_abbr_engine:cd\x20/home/erwansimonetti/Mergify/mergify\x2dengine\x2d2/
+SETUVAR _fish_abbr_epidocker:\x2e/home/erwansimonetti/Epitech/epidocker\x2esh
+SETUVAR _fish_abbr_epitech:cd\x20/home/erwansimonetti/Epitech/Tek3/
 SETUVAR _fish_abbr_gca:git\x20commit\x20\x2d\x2damend
 SETUVAR _fish_abbr_glo:git\x20log\x20\x2d\x2dpretty\x3doneline
 SETUVAR _fish_abbr_gst:git\x20status\x20\x2ds
+SETUVAR _fish_abbr_mergify:cd\x20/home/erwansimonetti/Mergify
 SETUVAR _fish_abbr_music:open\x20https\x3a//www\x2edeezer\x2ecom/fr/
+SETUVAR _fish_abbr_prompt:code\x20/home/erwansimonetti/\x2econfig/fish/functions/fish_prompt\x2efish
+SETUVAR _fish_abbr_right__prompt:code\x20/home/erwansimonetti/\x2econfig/fish/functions/fish_right_prompt\x2efish
+SETUVAR _fish_abbr_youtube:open\x20https\x3a//www\x2eyoutube\x2ecom/
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:005fd7
@@ -33,3 +42,4 @@ SETUVAR fish_pager_color_completion:\x1d
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+SETUVAR fish_pager_color_selected_background:\x2dr
